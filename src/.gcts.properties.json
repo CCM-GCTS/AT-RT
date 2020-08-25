@@ -1,1 +1,1 @@
-{ "repositoryLayout" : { "formatVersion" : "2" } }
+{"name":"ccm-gcts-at-rt","version":"1.0.0","description":"CCM-GCTS-AT-RT","repositoryLayout":{"formatVersion":2,"format":"xml","objectStorage":"plain","metaInformation":".gctsmetadata/"}}
