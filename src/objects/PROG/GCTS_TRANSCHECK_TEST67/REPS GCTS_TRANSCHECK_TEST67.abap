@@ -3,5 +3,4 @@
 *&---------------------------------------------------------------------*
 *&
 *&---------------------------------------------------------------------*
-REPORT GCTS_TRANSCHECK_TEST67.
-DATA lv_local TYPE GCTS_E_59 VALUE 'HELLO'.
+REPORT GCTS_TRANSCHECK_TEST.
